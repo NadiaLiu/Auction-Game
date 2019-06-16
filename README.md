@@ -1,3 +1,4 @@
+# Auction-Game
 Four Strategies(AuctionClient.py) for Auction Game respectively：  
 • Game 1: First to buy 5 of any artist wins, the highest bidder pays own bid, and the auction order known.  
 • Game 2: First to buy 5 of any artist wins, the highest bidder pays own bid, but the auction order is not
